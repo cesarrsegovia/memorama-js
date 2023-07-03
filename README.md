@@ -1,0 +1,3 @@
+## Memorama game
+
+- Only JavaScript
